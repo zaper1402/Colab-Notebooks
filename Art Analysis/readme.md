@@ -1,7 +1,5 @@
 # Art Network Analysis
 
-![Art Network Banner](images/art_network_banner.png)
-
 ## Introduction
 
 This project analyzes relationships between artists, movements, and institutions in the art world using network analysis techniques. By representing artists and their connections as a graph, we can identify influential figures, important movements, and communities within the art world.
