@@ -20,3 +20,6 @@ This is a colab notebooks collection of Data Science, Artificial Intelligence &a
 
 ### [Energy consumption prediction for Ro-Ro vessels from sensor](./Energy%20consumption%20prediction%20for%20Ro-Ro%20vessels%20from%20sensor)
 - **Description**: Predictive modeling project that uses sensor data from Roll-on/Roll-off vessels to forecast energy consumption patterns and improve operational efficiency.
+
+### [Image Classification](./Image%20Classification)
+- **Description**: Project focused on classifying images using deep learning techniques like convolutional neural networks (CNNs) to identify and categorize visual content in images.
